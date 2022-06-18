@@ -1,0 +1,7 @@
+Ogranicznik_czasu_generowania(>=4): 0.28
+Bazowa_szybkosc_generowania: 1.6
+Ró¿nice_w_przyspieszeniu: 800
+Prêdkoœæ_bazowa: 0.8
+Bazowe_przyspieszenie: 1000
+Skala_przyspieszenia: 1800
+Dzwiek(1=tak,0=nie): 1

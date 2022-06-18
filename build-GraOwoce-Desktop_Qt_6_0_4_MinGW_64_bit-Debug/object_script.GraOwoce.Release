@@ -1,0 +1,10 @@
+release/gra.o
+release/gracz.o
+release/main.o
+release/menutlo.o
+release/owoc.o
+release/particle.o
+release/plansza.o
+release/silnik.o
+release/spadanie.o
+release/specjalne.o

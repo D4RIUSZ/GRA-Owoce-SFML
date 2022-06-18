@@ -1,0 +1,10 @@
+debug/gra.o
+debug/gracz.o
+debug/main.o
+debug/menutlo.o
+debug/owoc.o
+debug/particle.o
+debug/plansza.o
+debug/silnik.o
+debug/spadanie.o
+debug/specjalne.o
